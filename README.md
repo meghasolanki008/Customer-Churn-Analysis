@@ -14,5 +14,6 @@ This report has 3 Sections: 1. Churned Customer Analysis 2. Customer Overall Ana
 # Dashboard
 - Dashboard Link:
 # Screenshots of Dashboard
+![Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Overall%20Customer%20Analysis.png)
 ![Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Churned%20Customers.png)
 
