@@ -1,15 +1,15 @@
 # Customer Churn Analysis Report
 # Table of contents
-[1. Underlying Business Problem](#probelem)
-2. Data Summary
-3. Skills used And Approach
-4. Dashboard
-5. Findings
+-[Underlying Business Problem](#probelem)
+- [Data Summary](#summary)
+-  [Skills used And Approach](#approach)
+-  [Dashboard](#dashboard)
+-  [Findings](#findings)
 
 ## Business Problem<a id="problem"></a>
 One of the prestigious Telecom company maintains a database of the customer and their details.The company wants an end-to-end Business Analysis Solution to minimize Customer Attrition.The stakeholders wants to determine the factors associated with Customer churn along with quantification and categorization of the churn risk associated with any user in the subscriber base and to find out the most popular churn segments.
 
-## Data Summary
+## Data Summary<a id="summary"></a>
 The provided dataset consists of the information below:
 
 - Demographic information about customers including gender, age, marital status.
@@ -22,7 +22,7 @@ The provided dataset consists of the information below:
 
 - Customer churn where the customer left within the last month.
 
-## Skills used And Approach
+## Skills used And Approach<a id="approach"></a>
 
 Skills: Data Modelling, Machine Learning, Power BI
 
@@ -46,14 +46,14 @@ In order to get the Risk Category we use conditional column as
 
 - Greater than 80%: High risky
 
-## Dashboard
+## Dashboard<a id="dashboard"></a>
 - Dashboard Link:
 # Screenshots of Dashboard
 ![Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Overall%20Customer%20Analysis.png)
 ![Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Churned%20Customers.png)
 ![Not Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Not%20Churn%20Customers.png)
 
-## Findings
+## Findings<a id="findings"></a>
 Insights:
 1. **The data shows that roughly 27% of the subscriber base have churned**, means out of 7034 customers 1869 left the company.
 2.   From demographic information we can infer that :
