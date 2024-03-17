@@ -55,24 +55,39 @@ In order to get the Risk Category we use conditional column as
 
 ## Findings<a id="findings"></a>
 Insights:
+
 1. **The data shows that roughly 27% of the subscriber base have churned**, means out of 7034 customers 1869 left the company.
-2.   From demographic information we can infer that :
+   
+2. From demographic information we can infer that :
      2.1. **Gender has no impact on churning.**
+
      2.2. Customers who have lower tenure are more likely to churn **i.e. NEW customers are churning much more as compared to long term customer**.
+
      2.3. Higher percentage (around **11% more) of Senior citizen are in the churner base** then in the subscriber base.
+
      2.4. Subscribers who **do not have partners are 40% more likely to churn** as compared to partnered subscriber.
+
 3. In the **Phone Service and usage data** we can infer that:
-   3.1 Subscribers with **no online security are 30 % more likely to churn.**
-   3.2: Subscribers **without any tech support assistance are 32% more likely to churn.**
+
+    3.1 Subscribers with **no online security are 30 % more likely to churn.**
+
+    3.2: Subscribers **without any tech support assistance are 32% more likely to churn.**
+
    3.3: Subscribers **on fiber optics are 25 % more likely to churn** as well.
+
 4. In the **Contract and Payment data** we can infer that:
+
    4.1 Subscribers on **monthly plan form 90% of all the churners** and are very highly likely to churn as compared to just 55% of all subscriber.
+
    4.2: Subscribers paying through **electronic cheques are 24% more likely to churn.**
+
    4.3: **Churner's average monthly revenue is $10 more than overall average monthly revenue.**
 
 Suggestions:
 1. The company should consider extending the basic contract plan from one month to three or six months. This would encourage the customers to stay longer with the company and reduce churn rate.
+
 2. The company should also target who are single and have no family obligations.They have the potential to become loyal customers if they are offered attractive deals and discounts.
+
 3. The company should provide basic services such as device protection, tech support and online security as part of their standard package. These services can increase customer satisfaction, loyalty and prevent them from switching.
 
    
