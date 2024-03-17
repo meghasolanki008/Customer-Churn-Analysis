@@ -1,6 +1,6 @@
 # Customer Churn Analysis Report
 # Table of contents
--[Underlying Business Problem](#probelem)
+- [Underlying Business Problem](#probelem)
 - [Data Summary](#summary)
 -  [Skills used And Approach](#approach)
 -  [Dashboard](#dashboard)
