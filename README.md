@@ -26,28 +26,31 @@ The provided dataset consists of the information below:
 
 Skills: Data Modelling, Machine Learning, Power BI
 
-I have divided the analytic part in 3 Sections: 1. Churned Customer Analysis 2. Customer Overall Analysis 3. Not Churn Customer Risk Analysis
+I have divided the analytic part in 3 Sections: 
+         1. Churned Customer Analysis 
+         2. Customer Overall Analysis 
+         3. Not Churn Customer Risk Analysis
 
-1st Section: Churned Customer Analysis: In this Section, I analyzed only Churned customers from the dataset and show the results with proper visualization.
+1st Section: Churned Customer Analysis: In this Section, I analyzed only Churned customers from the dataset and showed the results with proper visualization.
 
-2nd Section: Customer Analysis: In this Section, I analyzed overall customer data and show the results with proper visualization.
+2nd Section: Customer Analysis: In this Section, I analyzed overall customer data and showed the results with proper visualization.
 
-3rd Section: Not Churn Customer Risk Analysis: In this Section, I analyzed Not Churned customers' data and Create a Machine Learning (ML) model to predict which customers in this Not_Churned_Customer_Dataset will be Risky Customers for the future. And show the results with proper visualization.
+3rd Section: Not Churn Customer Risk Analysis: In this Section, I analyzed retained customers' data and Created a Machine Learning (ML) model to predict which customers from the retained customers will be Risky Customers for the future. And showed the results with proper visualization.
 
-In order to analyze the churning risk of a subscriber we need to create models to predict whether a subscriber will churn or not based on its accuracy. This can be done using Machine Learning techniques. Here, I have used Logistic regression to do the modeling.
+In order to analyze the churning risk of a subscriber we need to create Machine Learning models to predict whether a subscriber will discontinue to take the services of the company or not. Here, I have used Logistic regression to do the modeling.
 
-In order to get the Risk Category we use conditional column as
+In order to identify the customers with high risk of being churn we use conditional column as
 
-- IF Probability of churn less than 40% then non risky,
+- IF Probability of a customer being churn **less than 40% then non risky**,
 
-- between 40% to 60% : Low Risky,
+- between 40% to 60% : **Low Risky**,
 
-- 60% to 80%: Risky,
+- 60% to 80%: **Risky**,
 
-- Greater than 80%: High risky
+- Greater than 80%: **High risky**
 
 ## Dashboard<a id="dashboard"></a>
-- Dashboard Link:
+
 # Screenshots of Dashboard
 ![Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Overall%20Customer%20Analysis.png)
 ![Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Churned%20Customers.png)
