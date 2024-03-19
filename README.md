@@ -53,8 +53,8 @@ In order to identify the customers with high risk of being churn we use conditio
 
 # Screenshots of Dashboard
 ![Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Overall%20Customer%20Analysis.png)
-![Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Churned%20Customers.png)
-![Not Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Not%20Churn%20Customers.png)
+![Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Churned%20Customer.png)
+![Not Churn Customer Analysis](https://github.com/meghasolanki008/Customer-Churn-Analysis/blob/main/Not%20Churn%20Customer.png)
 
 ## Findings<a id="findings"></a>
 Insights:
