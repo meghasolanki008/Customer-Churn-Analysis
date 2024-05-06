@@ -8,20 +8,21 @@
 
 ## Business Problem<a id="problem"></a>
 
-A Telecom company has been collecting the data of its user's demographics and their subscribed services/add ons along with the tenure for which a customer has been with the company. The company wants to implement a retention strategy for the pool of customers with high churning probability. The company wants to identify factors affecting the churning probability of its customers and how it varies across customer segments. Further it needs to track how these factors are changing overtime and measure the effectiveness of the retention strategies applied. This will require an end to end solution involving predictive modeling for calculating churn probabilities and multiple interactive dashboards for review.
+A Telecom company has been collecting the data of its customer's demographics, subscribed services/add ons and customer vintage. The company wants to implement a retention strategy for the pool of customers which are likely to unsubscribe. It wants to identify factors affecting customer attrition and how it varies across segments. Further, it needs to track how these factors are changing overtime and measure the effectiveness of the retention strategies applied. The solution shall involve predictive modelling for calculating churn probability and multiple interactive dashboards for periodic review.
 
 ## Data Summary<a id="summary"></a>
-The provided dataset consists of the information below:
 
-- Demographic information about customers including gender, age, marital status.
+The dataset consists of
 
-- Customer account information including the number of months staying with the company, paperless billing, payment method, monthly charges, and total charges.
+- Demographic details about customers such as gender, age, marital status
 
-- Customer usage behavior, such as streaming TV, streaming movie.
+- Customer account details including the vintage(in months), billing mode, payment method, monthly charges, and Lifetime Value generated.
 
-- Services that the customer signed up for: phone service, multiples, internet service, online security, online backup, device protection, and tech support.
+- Customer usage behavior such as streaming TV, streaming movie.
 
-- Customer churn where the customer left within the last month.
+- Services subscribed: phone service, multiple connections, internet service, online security, online backup, device protection, and tech support.
+
+- Customer churn: whether the customer is still a subscriber
 
 ## Skills used And Approach<a id="approach"></a>
 
