@@ -1,13 +1,24 @@
 # Customer Churn Analysis Report
 # Table of contents
-- [Underlying Business Problem](#probelem)
+- [Business Problem](#probelem)
 - [Data Summary](#summary)
 -  [Skills used And Approach](#approach)
 -  [Dashboard](#dashboard)
 -  [Findings](#findings)
 
 ## Business Problem<a id="problem"></a>
-One of the prestigious Telecom company maintains a database of the customer and their details.The company wants an end-to-end Business Analysis Solution to minimize Customer Attrition.The stakeholders wants to determine the factors associated with Customer churn along with quantification and categorization of the churn risk associated with any user in the subscriber base and to find out the most popular churn segments.
+
+A Telecom company has been collecting the data of its user's demographics and their subscribed services/add ons along with the tenure for which a customer has been with the company. The company wants to implement a retention strategy for the pool of customers with high churning probability. This will involve classification of existing customers basis historical data and dashboards to visualize and track the churning customer segment. The management wants multiple interactive dashboards with the following visualizations
+
+i) Classifying customers based on the probability of churn
+
+ii) Comparison of user's demographics, usage for churners and non-churners
+
+iii)Top factors impacting churn 
+
+iv) Churning customer segment
+
+v) Customer Profile along with risk of churning
 
 ## Data Summary<a id="summary"></a>
 The provided dataset consists of the information below:
