@@ -8,7 +8,7 @@
 
 ## Business Problem<a id="problem"></a>
 
-A Telecom company has been collecting the data of its user's demographics and their subscribed services/add ons along with the tenure for which a customer has been with the company. The company wants to implement a retention strategy for the pool of customers with high churning probability. The company wants to identify factors affecting the churning probability of its customers and how it varies across customers across segments. Further it needs to track how these factors are changing overtime and measure the effectiveness of the retention strategies applied. This will require an end to end solution involving predictive modeling for calculating churn probabilities and multiple interactive dashboards for review.
+A Telecom company has been collecting the data of its user's demographics and their subscribed services/add ons along with the tenure for which a customer has been with the company. The company wants to implement a retention strategy for the pool of customers with high churning probability. The company wants to identify factors affecting the churning probability of its customers and how it varies across customer segments. Further it needs to track how these factors are changing overtime and measure the effectiveness of the retention strategies applied. This will require an end to end solution involving predictive modeling for calculating churn probabilities and multiple interactive dashboards for review.
 
 ## Data Summary<a id="summary"></a>
 The provided dataset consists of the information below:
